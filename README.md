@@ -1,1 +1,1 @@
-# JS-projects
+PL SQL basics
